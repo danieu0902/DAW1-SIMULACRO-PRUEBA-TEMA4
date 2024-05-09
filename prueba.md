@@ -41,3 +41,12 @@
 
 ## EJERCICIO 7
 
+
+![Imagen 1 del ejercicio7](img/7a.jpg)
+![Imagen 2 del ejercicio7](img/7b.jpg)
+![Imagen 3 del ejercicio7](img/7c.jpg)
+![Imagen 4 del ejercicio7](img/7d.jpg)
+![Imagen 5 del ejercicio5](img/7e.jpg)
+![Imagen 6 del ejercicio5](img/7f.jpg)
+
+
